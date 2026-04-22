@@ -27,16 +27,16 @@ python Teen_Mental_Health_Project.py
 ## Results / Output Screenshots
 
 ### Objective 1 - Platform Usage (Bar Chart)
-![Platform Usage](GitHub Dashboard/obj1_platform_usage.png)
+![Platform Usage](screenshots/obj1_platform_usage.png)
 
 ### Objective 2 - Correlation Heatmap
-![Correlation Heatmap](GitHub Dashboard/obj2_correlation_heatmap.png)
+![Correlation Heatmap](screenshots/obj2_correlation_heatmap.png)
 
 ### Objective 3 - Linear Regression
-![Linear Regression](GitHub Dashboard/obj3_linear_regression.png)
+![Linear Regression](screenshots/obj3_linear_regression.png)
 
 ### Objective 4 - Z-Test Output
-![Z-Test](GitHub Dashboard/obj4_ztest_output.png)
+![Z-Test](screenshots/obj4_ztest_output.png)
 
 ### Objective 5 - Stress Level by Age
 ![Stress by Age](screenshots/obj5_stress_by_age.png)
